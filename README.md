@@ -16,7 +16,7 @@ pip install GroupyAPI
 pip install --upgrade Pillow
 ```
 
-Once you have that, head over to [GroupMe's Developer Page](https://dev.groupme.com/) and grab your auth token. Replace the <YOUR AUTH TOKEN> text with it, and do the same for the <YOUR GROUP NAME> with whichever group you want to spam with messages.
+Once you have that, head over to [GroupMe's Developer Page](https://dev.groupme.com/) and grab your auth token. Replace the \<YOUR AUTH TOKEN\> text with it, and do the same for the \<YOUR GROUP NAME>\ with whichever group you want to spam with messages.
 
 Just make sure the krabs.png file and impact.tff are in the same directory, then go ahead and run DayBotAll.py using python 3.10.x
 
